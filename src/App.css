@@ -1,0 +1,15 @@
+#container {
+  margin: 100px;
+}
+div{
+  margin-bottom: 20px;
+}
+label{
+  padding: 5px;
+}
+button{
+  background-color: aqua;
+}
+output{
+  border: 1px solid black;
+}
